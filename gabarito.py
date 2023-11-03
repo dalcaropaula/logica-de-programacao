@@ -1,5 +1,5 @@
 #prática - RESPOSTAS - Lógica de Programação e Algoritmos
-l = ('\033[34m''-''\033[m') * 40
+l = ('\033[34m''-''\033[m') * 35
 
 #°°°°°°°°°°°°°°°°°° Variáveis, Entrada e Saída de Dados      °°°°°°°°°°°°°°°°°° 
 
